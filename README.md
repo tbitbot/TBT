@@ -1,3 +1,3 @@
-# Mitrav
+# T-Bot
 Token
-To bridge the communication and cultural gap around the world and provide travellers with a blockchain based automated assistance through which travellers can meet, plan, do bookings, earn while they travel, exchange fiat currency with negligible fees and keep on improving to add value to travellers. Improve contract and transaction efficiency of bookings and realize the market oriented travel industry potential.
+T-Bot ecosystem provides you with multi investment opportunities with a facility to buy day-to-day required things. Any one can invest in TBT and get output from trading bot, later withdraw or use the output to buy day to day things from TB-Commerce or buying some crypto assets.
