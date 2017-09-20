@@ -1,14 +1,14 @@
 
-contract Mitrav is owned,ParentToken{
+contract TBOT is owned,ParentToken{
 
      /* library used for calculations */
     using SafeMath for uint256; 
 
      /* Public variables of the token */
     string public standard = 'Token 0.1';  
-    uint256 public currentSupply= 10000000000000000;
-    string public constant symbol = "MTR";
-    string public constant tokenName = "Mitrav";
+    uint256 public currentSupply= 3000000000000000;
+    string public constant symbol = "TBT";
+    string public constant tokenName = "TBOT";
     uint8 public constant decimals = 8;
 
     
@@ -31,7 +31,7 @@ contract Mitrav is owned,ParentToken{
 
 
 
-    function Mitrav()ParentToken(currentSupply,tokenName,decimals,symbol){}
+    function TBOT()ParentToken(currentSupply,tokenName,decimals,symbol){}
 
 
    ///@notice Provides balance of the account requested 
